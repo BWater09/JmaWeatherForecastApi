@@ -17,3 +17,5 @@ ForecastData fd = ForecastData.fetchForecastData(ForecastData.AreaType.CLASS20S/
 ```
 
 で取得できます。
+
+気象庁の[利用規約](https://www.jma.go.jp/jma/kishou/info/coment.html)に則ってご使用ください。
